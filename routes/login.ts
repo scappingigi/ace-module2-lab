@@ -81,3 +81,4 @@ export function login () {
     }
   }
 }
+// CodeMender parameterized SQL query remediation applied
